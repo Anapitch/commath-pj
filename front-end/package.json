@@ -1,7 +1,7 @@
 {
     "name": "61114440797",
     "version": "0.1.0",
-    "homepage": "https://anapitch.github.io/61114440797/",
+    "homepage": "https://anapitch.github.io/commath-pj",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",

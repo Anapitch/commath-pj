@@ -12,7 +12,7 @@ const routes = [{
         element: < Main / > ,
     },
     {
-        path: "61114440797",
+        path: "/commath-pj",
         element: < Main / > ,
     },
     {
